@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">runnable</string>
+    <string name="point">.</string>
+    <string name="refresh">обновить</string>
+</resources>
